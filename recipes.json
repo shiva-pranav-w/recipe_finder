@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pasta Carbonara",
+    "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "ingredients": ["Pasta", "Eggs", "Parmesan", "Bacon"]
+  },
+  {
+    "name": "Chicken Curry",
+    "image": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+    "ingredients": ["Chicken", "Onion", "Tomato", "Spices"]
+  }
+]
